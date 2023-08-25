@@ -1,2 +1,1 @@
-# Sorting_1
-java
+this repo contains my sorting algorithms and sorting questions
